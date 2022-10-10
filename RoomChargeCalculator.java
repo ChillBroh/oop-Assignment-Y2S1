@@ -25,6 +25,7 @@
         public int  getChargeDeluxDouble(boolean balcony, boolean parking, boolean tv, boolean kitchen, boolean wifi) {
             int total = 0;
 
+
             if(balcony)
                 total += balconyPrice;
             if(parking)
