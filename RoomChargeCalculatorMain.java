@@ -175,6 +175,7 @@ public class RoomChargeCalculatorMain {
             default :
                 System.out.println();
                 System.out.println("It Seems You have entered an incorrect input!");
+                System.out.println("Please select a correct value");
 
 
         }
